@@ -1,8 +1,44 @@
 {
   "patients": [
-    { "id": 1, "surname": "Willson", "gender": "male", "consultant": "Dr Surname", "discharge": "2020-02-22T18:25:43.511Z" },
-    { "id": 2, "surname": "Surname", "gender": "female", "consultant": "Dr Surname", "discharge": "2020-02-22T18:25:43.511Z" },
-    { "id": 3, "surname": "Surname3", "gender": "male", "consultant": "Dr Surname", "discharge": "2020-02-22T18:25:43.511Z" }
+    {
+      "id": 1,
+      "names": "Willson, Darren Alexander",
+      "nhsNo": "0123 456 789",
+      "dob": "1990-02-22T18:25:43.511Z",
+      "location": {
+        "bed": "3",
+        "ward": "33"
+      },
+      "gender": "male",
+      "consultant": "Dr Surname",
+      "discharge": "2020-02-22T18:25:43.511Z"
+    },
+    {
+      "id": 2,
+      "names": "Surname, Forname, Middle Name",
+      "nhsNo": "0123 456 789",
+      "dob": "1990-02-22T18:25:43.511Z",
+      "location": {
+        "bed": "4",
+        "ward": "44"
+      },
+      "gender": "female",
+      "consultant": "Dr Surname",
+      "discharge": "2020-02-22T18:25:43.511Z"
+    },
+    {
+      "id": 3,
+      "names": "Surname3, Forname, Middle Name",
+      "nhsNo": "0123 456 789",
+      "dob": "1990-02-22T18:25:43.511Z",
+      "location": {
+        "bed": "2",
+        "ward": "32"
+      },
+      "gender": "male",
+      "consultant": "Dr Surname",
+      "discharge": "2020-02-22T18:25:43.511Z"
+    }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
