@@ -26,13 +26,18 @@
           "oxygenSaturation": "",
           "device": "",
           "flowRate": ""
+        },
+        "c": {
+          "bloodPressure": "",
+          "pulseRate": ""
+        },
+        "de": {
+          "bloodGlucose": "",
+          "temperature": ""
         }
-      },
+      }
+ 
       
-      "bloodPressure": "",
-      "pulseRate": "",
-      "bloodGlucose": "",
-      "temperature": ""
     },
     {
       "id": 2,
@@ -60,13 +65,16 @@
           "oxygenSaturation": "",
           "device": "",
           "flowRate": ""
+        },
+        "c": {
+          "bloodPressure": "",
+          "pulseRate": ""
+        },
+        "de": {
+          "bloodGlucose": "",
+          "temperature": ""
         }
-      },
-      
-      "bloodPressure": "",
-      "pulseRate": "",
-      "bloodGlucose": "",
-      "temperature": ""
+      }
     },
     {
       "id": 3,
@@ -94,13 +102,16 @@
           "oxygenSaturation": "",
           "device": "",
           "flowRate": ""
+        },
+        "c": {
+          "bloodPressure": "",
+          "pulseRate": ""
+        },
+        "de": {
+          "bloodGlucose": "",
+          "temperature": ""
         }
-      },
-      
-      "bloodPressure": "",
-      "pulseRate": "",
-      "bloodGlucose": "",
-      "temperature": ""
+      }
     }
   ],
   "posts": [
