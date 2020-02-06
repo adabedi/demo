@@ -21,23 +21,15 @@
       },
       
       "monitoring": {
-        "ab": {
-          "respirationRate" : "",
-          "oxygenSaturation": "",
-          "device": "",
-          "flowRate": "",
-        },
-        "c": {
-          "bloodPressure": "",
-          "pulseRate": "",
-        },
-        "de": {
-          "bloodGlucose": "",
-          "temperature": ""
-        },
-        "situation": "",
-        "background": ""
-      }
+      "respirationRate" : "",
+      "oxygenSaturation": ""
+      },
+      "device": "",
+      "flowRate": "",
+      "bloodPressure": "",
+      "pulseRate": "",
+      "bloodGlucose": "",
+      "temperature": ""
     },
     {
       "id": 2,
@@ -59,24 +51,16 @@
         "description": "same"
       },
       
-      "monitoring": {
-        "ab": {
-          "respirationRate" : "",
-          "oxygenSaturation": "",
-          "device": "",
-          "flowRate": "",
-        },
-        "c": {
-          "bloodPressure": "",
-          "pulseRate": "",
-        },
-        "de": {
-          "bloodGlucose": "",
-          "temperature": ""
-        },
-        "situation": "",
-        "background": ""
-      }
+       "monitoring": {
+      "respirationRate" : "",
+      "oxygenSaturation": ""
+      },
+      "device": "",
+      "flowRate": "",
+      "bloodPressure": "",
+      "pulseRate": "",
+      "bloodGlucose": "",
+      "temperature": ""
     },
     {
       "id": 3,
@@ -99,23 +83,15 @@
       },
             
       "monitoring": {
-        "ab": {
-          "respirationRate" : "",
-          "oxygenSaturation": "",
-          "device": "",
-          "flowRate": "",
-        },
-        "c": {
-          "bloodPressure": "",
-          "pulseRate": "",
-        },
-        "de": {
-          "bloodGlucose": "",
-          "temperature": ""
-        },
-        "situation": "",
-        "background": ""
-      }
+      "respirationRate" : "",
+      "oxygenSaturation": ""
+      },
+      "device": "",
+      "flowRate": "",
+      "bloodPressure": "",
+      "pulseRate": "",
+      "bloodGlucose": "",
+      "temperature": ""
     }
   ],
   "posts": [
