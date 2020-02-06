@@ -21,11 +21,12 @@
       },
       
       "monitoring": {
-      "respirationRate" : "",
-      "oxygenSaturation": ""
+        "respirationRate" : "",
+        "oxygenSaturation": "",
+        "device": "",
+        "flowRate": ""
       },
-      "device": "",
-      "flowRate": "",
+      
       "bloodPressure": "",
       "pulseRate": "",
       "bloodGlucose": "",
@@ -51,12 +52,13 @@
         "description": "same"
       },
       
-       "monitoring": {
-      "respirationRate" : "",
-      "oxygenSaturation": ""
+      "monitoring": {
+        "respirationRate" : "",
+        "oxygenSaturation": "",
+        "device": "",
+        "flowRate": ""
       },
-      "device": "",
-      "flowRate": "",
+      
       "bloodPressure": "",
       "pulseRate": "",
       "bloodGlucose": "",
@@ -82,12 +84,13 @@
         "description": "better"
       },
             
-      "monitoring": {
-      "respirationRate" : "",
-      "oxygenSaturation": ""
+     "monitoring": {
+        "respirationRate" : "",
+        "oxygenSaturation": "",
+        "device": "",
+        "flowRate": ""
       },
-      "device": "",
-      "flowRate": "",
+      
       "bloodPressure": "",
       "pulseRate": "",
       "bloodGlucose": "",
