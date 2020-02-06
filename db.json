@@ -20,8 +20,10 @@
         "description": "worse"
       },
       
+      "monitoring": {
       "respirationRate" : "",
-      "oxygenSaturation": "",
+      "oxygenSaturation": ""
+      },
       "device": "",
       "flowRate": "",
       "bloodPressure": "",
@@ -48,9 +50,11 @@
         "ammount": "5",
         "description": "same"
       },
-            
+      
+       "monitoring": {
       "respirationRate" : "",
-      "oxygenSaturation": "",
+      "oxygenSaturation": ""
+      },
       "device": "",
       "flowRate": "",
       "bloodPressure": "",
@@ -78,8 +82,10 @@
         "description": "better"
       },
             
+      "monitoring": {
       "respirationRate" : "",
-      "oxygenSaturation": "",
+      "oxygenSaturation": ""
+      },
       "device": "",
       "flowRate": "",
       "bloodPressure": "",
