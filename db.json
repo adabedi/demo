@@ -21,15 +21,23 @@
       },
       
       "monitoring": {
-      "respirationRate" : "",
-      "oxygenSaturation": ""
-      },
-      "device": "",
-      "flowRate": "",
-      "bloodPressure": "",
-      "pulseRate": "",
-      "bloodGlucose": "",
-      "temperature": ""
+        "ab": {
+          "respirationRate" : "",
+          "oxygenSaturation": "",
+          "device": "",
+          "flowRate": "",
+        },
+        "c": {
+          "bloodPressure": "",
+          "pulseRate": "",
+        },
+        "de": {
+          "bloodGlucose": "",
+          "temperature": ""
+        },
+        "situation": "",
+        "background": ""
+      }
     },
     {
       "id": 2,
@@ -51,16 +59,24 @@
         "description": "same"
       },
       
-       "monitoring": {
-      "respirationRate" : "",
-      "oxygenSaturation": ""
-      },
-      "device": "",
-      "flowRate": "",
-      "bloodPressure": "",
-      "pulseRate": "",
-      "bloodGlucose": "",
-      "temperature": ""
+      "monitoring": {
+        "ab": {
+          "respirationRate" : "",
+          "oxygenSaturation": "",
+          "device": "",
+          "flowRate": "",
+        },
+        "c": {
+          "bloodPressure": "",
+          "pulseRate": "",
+        },
+        "de": {
+          "bloodGlucose": "",
+          "temperature": ""
+        },
+        "situation": "",
+        "background": ""
+      }
     },
     {
       "id": 3,
@@ -83,15 +99,23 @@
       },
             
       "monitoring": {
-      "respirationRate" : "",
-      "oxygenSaturation": ""
-      },
-      "device": "",
-      "flowRate": "",
-      "bloodPressure": "",
-      "pulseRate": "",
-      "bloodGlucose": "",
-      "temperature": ""
+        "ab": {
+          "respirationRate" : "",
+          "oxygenSaturation": "",
+          "device": "",
+          "flowRate": "",
+        },
+        "c": {
+          "bloodPressure": "",
+          "pulseRate": "",
+        },
+        "de": {
+          "bloodGlucose": "",
+          "temperature": ""
+        },
+        "situation": "",
+        "background": ""
+      }
     }
   ],
   "posts": [
