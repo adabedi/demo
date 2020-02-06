@@ -34,7 +34,9 @@
         "de": {
           "bloodGlucose": "",
           "temperature": ""
-        }
+        },
+        "situation": "",
+        "background": ""
       }
  
       
@@ -73,7 +75,9 @@
         "de": {
           "bloodGlucose": "",
           "temperature": ""
-        }
+        },
+        "situation": "",
+        "background": ""
       }
     },
     {
@@ -110,7 +114,9 @@
         "de": {
           "bloodGlucose": "",
           "temperature": ""
-        }
+        },
+       "situation": "",
+       "background": ""
       }
     }
   ],
