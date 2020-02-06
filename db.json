@@ -18,7 +18,16 @@
       "score": {
         "ammount": "10",
         "description": "worse"
-      }
+      },
+      
+      "respirationRate" : "",
+      "oxygenSaturation": "",
+      "device": "",
+      "flowRate": "",
+      "bloodPressure": "",
+      "pulseRate": "",
+      "bloodGlucose": "",
+      "temperature": ""
     },
     {
       "id": 2,
@@ -38,7 +47,16 @@
       "score": {
         "ammount": "5",
         "description": "same"
-      }
+      },
+            
+      "respirationRate" : "",
+      "oxygenSaturation": "",
+      "device": "",
+      "flowRate": "",
+      "bloodPressure": "",
+      "pulseRate": "",
+      "bloodGlucose": "",
+      "temperature": ""
     },
     {
       "id": 3,
@@ -58,7 +76,16 @@
       "score": {
         "ammount": "0",
         "description": "better"
-      }
+      },
+            
+      "respirationRate" : "",
+      "oxygenSaturation": "",
+      "device": "",
+      "flowRate": "",
+      "bloodPressure": "",
+      "pulseRate": "",
+      "bloodGlucose": "",
+      "temperature": ""
     }
   ],
   "posts": [
