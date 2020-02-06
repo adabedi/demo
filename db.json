@@ -17,7 +17,7 @@
       "bmi": "26.2",
       "score": {
         "ammount": "10",
-        "description": "worst"
+        "description": "worse"
       }
     },
     {
@@ -56,7 +56,7 @@
       "weight": "80.1",
       "bmi": "26.2",
       "score": {
-        "ammount": "3",
+        "ammount": "0",
         "description": "better"
       }
     }
