@@ -21,10 +21,12 @@
       },
       
       "monitoring": {
-        "respirationRate" : "",
-        "oxygenSaturation": "",
-        "device": "",
-        "flowRate": ""
+        "ab": {
+          "respirationRate" : "",
+          "oxygenSaturation": "",
+          "device": "",
+          "flowRate": ""
+        }
       },
       
       "bloodPressure": "",
@@ -53,10 +55,12 @@
       },
       
       "monitoring": {
-        "respirationRate" : "",
-        "oxygenSaturation": "",
-        "device": "",
-        "flowRate": ""
+        "ab": {
+          "respirationRate" : "",
+          "oxygenSaturation": "",
+          "device": "",
+          "flowRate": ""
+        }
       },
       
       "bloodPressure": "",
@@ -85,10 +89,12 @@
       },
             
      "monitoring": {
-        "respirationRate" : "",
-        "oxygenSaturation": "",
-        "device": "",
-        "flowRate": ""
+        "ab": {
+          "respirationRate" : "",
+          "oxygenSaturation": "",
+          "device": "",
+          "flowRate": ""
+        }
       },
       
       "bloodPressure": "",
