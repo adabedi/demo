@@ -120,6 +120,103 @@
       }
     }
   ],
+  "monitoring": [
+    {
+    "patientId": "1",
+    "ab": {
+      "respirationRate": {
+        "value": "",
+        "units": "Breaths per minute",
+        "pickerData": ["1", "2", "3", "4", "5", "6", "7", "8"],
+        "defaultValue": ""
+      },
+      "oxygenSaturation": {
+        "value": "",
+        "units": "%",
+        "pickerData": ["1", "2", "3", "4", "5", "6", "7", "8"],
+        "defaultValue": ""
+      },
+      "supplemental_o2": {
+        "value": "",
+        "options": [
+          {
+            "id": "yes",
+            "name": "Yes"
+          },
+          {
+            "id": "no",
+            "name": "No"
+          }
+        ]
+      },
+      "device": {
+        "value": "",
+        "units": "%",
+        "options": [
+          {"id": "nasal_cannula", "name": "Nasal Cannula"},
+          {"id": "simple_mask", "name": "Simple Mask"},
+          {"id": "with_reservoi", "name": "With Reservoi"},
+          {"id": "aerosol_neb", "name": "Aerosol / Neb"},
+          {"id": "venturi_mask", "name": "Venturi Mask"},
+          {"id": "humified_system", "name": "Humified System"},
+          {"id": "tracheostomy_mask", "name": "Tracheostomy Mask"}
+        ]
+      },
+      "flowRate": {
+        "value": "",
+        "units": "Litres per minute",
+        "pickerData": ["1", "2", "3", "4", "5", "6", "7", "8"],
+        "defaultValue": ""
+      }
+    },
+    "c": {
+      "bloodPressure": {
+        "value": "",
+        "units": "Beats per minute",
+        "pickerData": ["1", "2", "3", "4", "5", "6", "7", "8"],
+        "defaultValue": ""
+      },
+      "pulseRate": {
+        "value": "",
+        "units": "Beats per minute",
+        "pickerData": ["1", "2", "3", "4", "5", "6", "7", "8"],
+        "defaultValue": ""
+      }
+    },
+    "de": {
+      "consciousness": {
+        "value": "",
+        "options": [
+          {"id":"alert", "name": "alert"},
+          {"id":"voice", "name": "voice"},
+          {"id":"confusion", "name": "confusion"},
+          {"id":"pain", "name": "pain"},
+          {"id":"unresponsive", "name": "unresponsive"}
+        ]
+      },
+      "bloodGlucose": {
+        "value": "",
+        "units": "mmol/L",
+        "pickerData": [["35", "36", "37", "38", "39", "40", "41"], ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]],
+        "defaultValue": ""
+      },
+      "temperature": {
+        "value": "",
+        "units": "&#8451;",
+        "pickerData": [["35", "36", "37", "38", "39", "40", "41"], ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]],
+        "defaultValue": ""
+      }
+    },
+    "situation": {
+      "value": "",
+      "defaultValue": ""
+    },
+    "background": {
+      "value": "",
+      "defaultValue": ""
+    }
+  }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
