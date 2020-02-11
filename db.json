@@ -59,7 +59,7 @@
         "value": "",
         "label": "Blood Pressure",
         "units": "Beats per minute",
-        "pickerData": ["1", "2", "3", "4", "5", "6", "7", "8"],
+        "pickerData": [["35", "36", "37", "38", "39", "40", "41"], ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]],
         "defaultValue": ""
       },
       "pulseRate": {
@@ -86,7 +86,7 @@
         "value": "",
         "label": "Blood Glucose",
         "units": "mmol/L",
-        "pickerData": [["35", "36", "37", "38", "39", "40", "41"], ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]],
+        "pickerData": ["35", "36", "37", "38", "39", "40", "41"],
         "defaultValue": ""
       },
       "temperature": {
