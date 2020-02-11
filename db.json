@@ -34,6 +34,7 @@
       },
       "device": {
         "value": "",
+        "label": "Device",
         "units": "%",
         "options": [
           {"id": "nasal_cannula", "name": "Nasal Cannula"},
@@ -47,6 +48,7 @@
       },
       "flowRate": {
         "value": "",
+        "label": "Flow Rate",
         "units": "Litres per minute",
         "pickerData": ["1", "2", "3", "4", "5", "6", "7", "8"],
         "defaultValue": ""
@@ -55,12 +57,14 @@
     "c": {
       "bloodPressure": {
         "value": "",
+        "label": "Blood Pressure",
         "units": "Beats per minute",
         "pickerData": ["1", "2", "3", "4", "5", "6", "7", "8"],
         "defaultValue": ""
       },
       "pulseRate": {
         "value": "",
+        "label": "Pulse Rate",
         "units": "Beats per minute",
         "pickerData": ["1", "2", "3", "4", "5", "6", "7", "8"],
         "defaultValue": ""
@@ -69,6 +73,7 @@
     "de": {
       "consciousness": {
         "value": "",
+        "label": "Consciousness",
         "options": [
           {"id":"alert", "name": "alert"},
           {"id":"voice", "name": "voice"},
@@ -79,12 +84,14 @@
       },
       "bloodGlucose": {
         "value": "",
+        "label": "Blood Glucose",
         "units": "mmol/L",
         "pickerData": [["35", "36", "37", "38", "39", "40", "41"], ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]],
         "defaultValue": ""
       },
       "temperature": {
         "value": "",
+        "label": "temperature",
         "units": "&#8451;",
         "pickerData": [["35", "36", "37", "38", "39", "40", "41"], ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]],
         "defaultValue": ""
