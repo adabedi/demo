@@ -266,8 +266,6 @@
           "bed": "3",
           "ward": "33"
         },
-        "gender": "male",
-        "consultant": "Dr Surname",
         "discharge": "2020-02-22T18:25:43.511Z",
         "height": "172",
         "weight": "80.1",
@@ -292,8 +290,6 @@
           "bed": "4",
           "ward": "44"
         },
-        "gender": "female",
-        "consultant": "Dr Surname",
         "discharge": "2020-02-22T18:25:43.511Z",
         "height": "172",
         "weight": "80.1",
@@ -318,8 +314,6 @@
           "bed": "2",
           "ward": "32"
         },
-        "gender": "male",
-        "consultant": "Dr Surname",
         "discharge": "2020-02-22T18:25:43.511Z",
         "height": "172",
         "weight": "80.1",
