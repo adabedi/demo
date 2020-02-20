@@ -125,7 +125,7 @@
         "weight": "80.1",
         "bmi": "26.2",
         "score": {
-          "ammount": "10",
+          "ammount": 10,
           "description": "worse"
         },
   
@@ -165,7 +165,7 @@
         "weight": "80.1",
         "bmi": "26.2",
         "score": {
-          "ammount": "5",
+          "ammount": 5,
           "description": "same"
         },
   
@@ -205,7 +205,7 @@
         "weight": "80.1",
         "bmi": "26.2",
         "score": {
-          "ammount": "0",
+          "ammount": 0,
           "description": "better"
         },
   
@@ -245,7 +245,7 @@
         "weight": "80.1",
         "bmi": "26.2",
         "score": {
-          "ammount": "10",
+          "ammount": 10,
           "description": "worse"
         },
   
@@ -284,7 +284,7 @@
         "weight": "80.1",
         "bmi": "26.2",
         "score": {
-          "ammount": "10",
+          "ammount": 10,
           "description": "worse"
         },
   
@@ -323,7 +323,7 @@
         "weight": "80.1",
         "bmi": "26.2",
         "score": {
-          "ammount": "10",
+          "ammount": 10,
           "description": "worse"
         },
   
