@@ -115,6 +115,8 @@
         "names": "Willson, Darren Alexander",
         "nhsNo": "0123 456 789",
         "dob": "1990-02-22T18:25:43.511Z",
+        "admitted": "2020-02-22T18:25:43.511Z",
+        "exceptedDidcharge": "2020-02-22T18:25:43.511Z",
         "location": {
           "bed": "3",
           "ward": "33"
@@ -137,6 +139,8 @@
         "names": "Surname, Forname, Middle Name",
         "nhsNo": "0123 456 789",
         "dob": "1990-02-22T18:25:43.511Z",
+        "admitted": "2020-02-22T18:25:43.511Z",
+        "exceptedDidcharge": "2020-02-22T18:25:43.511Z",
         "location": {
           "bed": "4",
           "ward": "44"
@@ -159,6 +163,8 @@
         "names": "Surname3, Forname, Middle Name",
         "nhsNo": "0123 456 789",
         "dob": "1990-02-22T18:25:43.511Z",
+        "admitted": "2020-02-22T18:25:43.511Z",
+        "exceptedDidcharge": "2020-02-22T18:25:43.511Z",
         "location": {
           "bed": "2",
           "ward": "32"
@@ -181,6 +187,8 @@
         "names": "Willson, Darren Alexander",
         "nhsNo": "0123 456 789",
         "dob": "1990-02-22T18:25:43.511Z",
+        "admitted": "2020-02-22T18:25:43.511Z",
+        "exceptedDidcharge": "2020-02-22T18:25:43.511Z",
         "location": {
           "bed": "3",
           "ward": "33"
@@ -202,6 +210,8 @@
         "names": "Willson, Darren Alexander",
         "nhsNo": "0123 456 789",
         "dob": "1990-02-22T18:25:43.511Z",
+        "admitted": "2020-02-22T18:25:43.511Z",
+        "exceptedDidcharge": "2020-02-22T18:25:43.511Z",
         "location": {
           "bed": "3",
           "ward": "33"
@@ -223,6 +233,8 @@
         "names": "Willson, Darren Alexander",
         "nhsNo": "0123 456 789",
         "dob": "1990-02-22T18:25:43.511Z",
+        "admitted": "2020-02-22T18:25:43.511Z",
+        "exceptedDidcharge": "2020-02-22T18:25:43.511Z",
         "location": {
           "bed": "3",
           "ward": "33"
