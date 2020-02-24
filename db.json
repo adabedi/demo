@@ -173,7 +173,7 @@
       ],
       "analysis": [
         {
-          "VitalSigns": {
+          "vitalSigns": {
             "AB": [
               { "parametr": "Respiration Rate", "value": "24", "units": "bpm" },
               { "parametr": "Saturation", "value": "94", "units": "%" },
