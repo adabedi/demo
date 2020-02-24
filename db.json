@@ -203,17 +203,6 @@
             { "parametr": "Creatanine", "value": "68", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"},
             { "parametr": "eGFR", "value": "54", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"}
           ]
-        },
-        {
-          "BiochemistryBloodGass": [
-            { "parametr": "Sodium", "value": "128", "units": "mmol/L", "date":"2020-02-22T18:25:43.511Z"},
-            { "parametr": "Potassium", "value": "4", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"},
-            { "parametr": "Chloride", "value": "94", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"},
-            { "parametr": "CO", "value": "20", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"},
-            { "parametr": "Urea", "value": "5.1", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"},
-            { "parametr": "Creatanine", "value": "68", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"},
-            { "parametr": "eGFR", "value": "54", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"}
-          ]
         }
       ]
     },
