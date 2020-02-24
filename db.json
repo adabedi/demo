@@ -170,6 +170,51 @@
         {
           "livingAsessments4": ["Care Package", "Escalation Status"]
         }
+      ],
+      "analysis": [
+        {
+          "Vital Signs": {
+            "AB": [
+              { "parametr": "Respiration Rate", "value": "24", "units": "bpm" },
+              { "parametr": "Saturation", "value": "94", "units": "%" },
+              { "parametr": "Flow Rate", "value": "4", "units": "l/pm" }
+            ],
+            "C": [
+              {
+                "parametr": "Blood Pressure",
+                "value": "89/42",
+                "units": "mmHg"
+              },
+              { "parametr": "Puls Rate", "value": "108", "units": "bpm" }
+            ],
+            "DE": [
+              { "parametr": "Consciousness", "value": "Alert" },
+              { "parametr": "Temperature", "value": "37.2", "units": "'C" }
+            ]
+          }
+        },
+        {
+          "BiochemistryElectrolytesRenal": [
+            { "parametr": "Sodium", "value": "128", "units": "mmol/L", "date":"2020-02-22T18:25:43.511Z"},
+            { "parametr": "Potassium", "value": "4", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"},
+            { "parametr": "Chloride", "value": "94", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"},
+            { "parametr": "CO", "value": "20", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"},
+            { "parametr": "Urea", "value": "5.1", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"},
+            { "parametr": "Creatanine", "value": "68", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"},
+            { "parametr": "eGFR", "value": "54", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"}
+          ]
+        },
+        {
+          "BiochemistryBloodGass": [
+            { "parametr": "Sodium", "value": "128", "units": "mmol/L", "date":"2020-02-22T18:25:43.511Z"},
+            { "parametr": "Potassium", "value": "4", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"},
+            { "parametr": "Chloride", "value": "94", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"},
+            { "parametr": "CO", "value": "20", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"},
+            { "parametr": "Urea", "value": "5.1", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"},
+            { "parametr": "Creatanine", "value": "68", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"},
+            { "parametr": "eGFR", "value": "54", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z"}
+          ]
+        }
       ]
     },
 
@@ -246,29 +291,6 @@
     },
     {
       "id": 5,
-      "newsFreq": 3,
-      "names": "Willson, Darren Alexander",
-      "nhsNo": "0123 456 789",
-      "dob": "1990-02-22T18:25:43.511Z",
-      "admitted": "2020-02-22T18:25:43.511Z",
-      "exceptedDidcharge": "2020-02-22T18:25:43.511Z",
-      "location": {
-        "bed": "3",
-        "ward": "33"
-      },
-      "gender": "male",
-      "consultant": "Dr Surname",
-      "discharge": "2020-02-22T18:25:43.511Z",
-      "height": "172",
-      "weight": "80.1",
-      "bmi": "26.2",
-      "score": {
-        "ammount": 10,
-        "description": "worse"
-      }
-    },
-    {
-      "id": 6,
       "newsFreq": 3,
       "names": "Willson, Darren Alexander",
       "nhsNo": "0123 456 789",
