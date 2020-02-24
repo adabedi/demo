@@ -175,21 +175,22 @@
         {
           "vitalSigns": {
             "AB": [
-              { "parametr": "Respiration Rate", "value": "24", "units": "bpm" },
-              { "parametr": "Saturation", "value": "94", "units": "%" },
-              { "parametr": "Flow Rate", "value": "4", "units": "l/pm" }
+              { "parametr": "Respiration Rate", "value": "24", "units": "bpm", "color": "#2E7D32" },
+              { "parametr": "Saturation", "value": "94", "units": "%", "color": "#FBC384" },
+              { "parametr": "Flow Rate", "value": "4", "units": "l/pm", "color": "#FBC384" }
             ],
             "C": [
               {
                 "parametr": "Blood Pressure",
                 "value": "89/42",
-                "units": "mmHg"
+                "units": "mmHg",
+                "color": "#2E7D32"
               },
-              { "parametr": "Puls Rate", "value": "108", "units": "bpm" }
+              { "parametr": "Puls Rate", "value": "108", "units": "bpm", "color": "#2E7D32" }
             ],
             "DE": [
-              { "parametr": "Consciousness", "value": "Alert" },
-              { "parametr": "Temperature", "value": "37.2", "units": "'C" }
+              { "parametr": "Consciousness", "value": "Alert", "color": "#fff" },
+              { "parametr": "Temperature", "value": "37.2", "units": "'C", "color": "#fff" }
             ]
           }
         },
