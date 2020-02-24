@@ -153,6 +153,23 @@
             "Perforation and faecal contamination found at laparoomty;unable to tolerate any oral intake post op, persistent pain, not mobilising"
           ]
         }
+      ],
+      "awareneesAndPlanning": [
+        {
+          "livingAsessments": [
+            "Mild cognitive impairment",
+            "Physical learning disability"
+          ]
+        },
+        {
+          "livingAsessments2": ["Impaired exercise capacity", "Severe frailty"]
+        },
+        {
+          "livingAsessments3": ["Infection status"]
+        },
+        {
+          "livingAsessments4": ["Care Package", "Escalation Status"]
+        }
       ]
     },
 
