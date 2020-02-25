@@ -173,36 +173,69 @@
       ],
       "analysis": [
         {
-          "vitalSigns": {
+          "VitalSigns": {
             "AB": [
-              { "parametr": "Respiration Rate", "value": "24", "units": "bpm", "color": "#2E7D32" },
-              { "parametr": "Saturation", "value": "94", "units": "%", "color": "#FBC384" },
-              { "parametr": "Flow Rate", "value": "4", "units": "l/pm", "color": "#FBC384" }
+              { "parametr": "Respiration Rate", "value": "24", "units": "bpm" },
+              { "parametr": "Saturation", "value": "94", "units": "%" },
+              { "parametr": "Flow Rate", "value": "4", "units": "l/pm" }
             ],
             "C": [
               {
                 "parametr": "Blood Pressure",
                 "value": "89/42",
-                "units": "mmHg",
-                "color": "#2E7D32"
+                "units": "mmHg"
               },
-              { "parametr": "Puls Rate", "value": "108", "units": "bpm", "color": "#2E7D32" }
+              { "parametr": "Puls Rate", "value": "108", "units": "bpm" }
             ],
             "DE": [
-              { "parametr": "Consciousness", "value": "Alert", "color": "#fff" },
-              { "parametr": "Temperature", "value": "37.2", "units": "'C", "color": "#fff" }
+              { "parametr": "Consciousness", "value": "Alert" },
+              { "parametr": "Temperature", "value": "37.2", "units": "'C" }
             ]
-          }
-        },
-        {
+          },
+
           "BiochemistryElectrolytesRenal": [
-            { "parametr": "Sodium", "value": "128", "units": "mmol/L", "date":"2020-02-22T18:25:43.511Z", "color": "#2E7D32"},
-            { "parametr": "Potassium", "value": "4", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z", "color": "#FBC384"},
-            { "parametr": "Chloride", "value": "94", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z", "color": "#2E7D32"},
-            { "parametr": "CO", "value": "20", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z", "color": "#2E7D32"},
-            { "parametr": "Urea", "value": "5.1", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z", "color": "#FBC384"},
-            { "parametr": "Creatanine", "value": "68", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z", "color": "#FBC384"},
-            { "parametr": "eGFR", "value": "54", "units": "mmol/L", "date": "2020-02-22T18:25:43.511Z", "color": "#2E7D32"}
+            {
+              "parametr": "Sodium",
+              "value": "128",
+              "units": "mmol/L",
+              "date": "2020-02-22T18:25:43.511Z"
+            },
+            {
+              "parametr": "Potassium",
+              "value": "4",
+              "units": "mmol/L",
+              "date": "2020-02-22T18:25:43.511Z"
+            },
+            {
+              "parametr": "Chloride",
+              "value": "94",
+              "units": "mmol/L",
+              "date": "2020-02-22T18:25:43.511Z"
+            },
+            {
+              "parametr": "CO",
+              "value": "20",
+              "units": "mmol/L",
+              "date": "2020-02-22T18:25:43.511Z"
+            },
+            {
+              "parametr": "Urea",
+              "value": "5.1",
+              "units": "mmol/L",
+              "date": "2020-02-22T18:25:43.511Z"
+            },
+            {
+              "parametr": "Creatanine",
+              "value": "68",
+              "units": "mmol/L",
+              "date": "2020-02-22T18:25:43.511Z"
+            },
+            {
+              "parametr": "eGFR",
+              "value": "54",
+              "units": "mmol/L",
+              "date": "2020-02-22T18:25:43.511Z"
+            }
           ]
         }
       ]
@@ -302,6 +335,54 @@
       "score": {
         "ammount": 10,
         "description": "worse"
+      }
+    },
+
+    {
+      "id": 2,
+      "observationName": "Blood Glucose Observation",
+      "dueTime": "13.00",
+      "newsFreq": 4,
+      "priority": 2,
+
+      "names": "Surname, Forname, Middle Name",
+      "nhsNo": "0123 456 789",
+      "dob": "1990-02-22T18:25:43.511Z",
+      "location": {
+        "bed": "4",
+        "ward": "44"
+      },
+      "discharge": "2020-02-22T18:25:43.511Z",
+      "height": "172",
+      "weight": "80.1",
+      "bmi": "26.2",
+      "score": {
+        "ammount": 5,
+        "description": "same"
+      }
+    },
+
+    {
+      "id": 3,
+      "observationName": "Observation Name",
+      "dueTime": "13.00",
+      "newsFreq": 10,
+      "priority": 5,
+
+      "names": "Surname3, Forname, Middle Name",
+      "nhsNo": "0123 456 789",
+      "dob": "1990-02-22T18:25:43.511Z",
+      "location": {
+        "bed": "2",
+        "ward": "32"
+      },
+      "discharge": "2020-02-22T18:25:43.511Z",
+      "height": "172",
+      "weight": "80.1",
+      "bmi": "26.2",
+      "score": {
+        "ammount": 0,
+        "description": "better"
       }
     }
   ],
