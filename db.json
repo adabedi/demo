@@ -175,21 +175,22 @@
         {
           "VitalSigns": {
             "AB": [
-              { "parametr": "Respiration Rate", "value": "24", "units": "bpm" },
-              { "parametr": "Saturation", "value": "94", "units": "%" },
-              { "parametr": "Flow Rate", "value": "4", "units": "l/pm" }
+              { "parametr": "Respiration Rate", "value": "24", "units": "bpm", "color": "#2E7D32"},
+              { "parametr": "Saturation", "value": "94", "units": "%", "color": "#2E7D32" },
+              { "parametr": "Flow Rate", "value": "4", "units": "l/pm", "color": "#FBC384" }
             ],
             "C": [
               {
                 "parametr": "Blood Pressure",
                 "value": "89/42",
-                "units": "mmHg"
+                "units": "mmHg",
+                "color": "#FBC384"
               },
-              { "parametr": "Puls Rate", "value": "108", "units": "bpm" }
+              { "parametr": "Puls Rate", "value": "108", "units": "bpm","color": "#2E7D32" }
             ],
             "DE": [
-              { "parametr": "Consciousness", "value": "Alert" },
-              { "parametr": "Temperature", "value": "37.2", "units": "'C" }
+              { "parametr": "Consciousness", "value": "Alert", "color": "#fff"},
+              { "parametr": "Temperature", "value": "37.2", "units": "'C", "color": "#fff" }
             ]
           },
 
@@ -198,43 +199,50 @@
               "parametr": "Sodium",
               "value": "128",
               "units": "mmol/L",
-              "date": "2020-02-22T18:25:43.511Z"
+              "date": "2020-02-22T18:25:43.511Z",
+               "color": "#2E7D32"
             },
             {
               "parametr": "Potassium",
               "value": "4",
               "units": "mmol/L",
               "date": "2020-02-22T18:25:43.511Z"
+              "color": "#fff"
             },
             {
               "parametr": "Chloride",
               "value": "94",
               "units": "mmol/L",
-              "date": "2020-02-22T18:25:43.511Z"
+              "date": "2020-02-22T18:25:43.511Z",
+              "color": "#2E7D32"
             },
             {
               "parametr": "CO",
               "value": "20",
               "units": "mmol/L",
-              "date": "2020-02-22T18:25:43.511Z"
+              "date": "2020-02-22T18:25:43.511Z",
+              "color": "#FBC384"
             },
             {
               "parametr": "Urea",
               "value": "5.1",
               "units": "mmol/L",
-              "date": "2020-02-22T18:25:43.511Z"
+              "date": "2020-02-22T18:25:43.511Z",
+              "color": "#fff"
             },
             {
               "parametr": "Creatanine",
               "value": "68",
               "units": "mmol/L",
-              "date": "2020-02-22T18:25:43.511Z"
+              "date": "2020-02-22T18:25:43.511Z",
+              "color": "#2E7D32"
             },
             {
               "parametr": "eGFR",
               "value": "54",
               "units": "mmol/L",
-              "date": "2020-02-22T18:25:43.511Z"
+              "date": "2020-02-22T18:25:43.511Z",
+              "color": "#2E7D32"
             }
           ]
         }
