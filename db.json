@@ -336,30 +336,6 @@
         "ammount": 10,
         "description": "worse"
       }
-    },
-
-    {
-      "id": 2,
-      "observationName": "Blood Glucose Observation",
-      "dueTime": "13.00",
-      "newsFreq": 4,
-      "priority": 2,
-
-      "names": "Surname, Forname, Middle Name",
-      "nhsNo": "0123 456 789",
-      "dob": "1990-02-22T18:25:43.511Z",
-      "location": {
-        "bed": "4",
-        "ward": "44"
-      },
-      "discharge": "2020-02-22T18:25:43.511Z",
-      "height": "172",
-      "weight": "80.1",
-      "bmi": "26.2",
-      "score": {
-        "ammount": 5,
-        "description": "same"
-      }
     }
   ],
 
