@@ -22,6 +22,20 @@
         "ammount": 10,
         "description": "worse"
       },
+      "ab": {
+      "respirationRate": {"value": ""},
+      "oxygenSaturation": {"value": ""},
+      "supplementalO2": {"value": ""},
+        "flowRate": {"value": ""}
+      },
+      "c": {
+         "temperature": {"value": ""},
+      "pulseRate": {"value": ""}
+      },
+        "de": {
+         "consciousness": {"value": ""},
+      "temperature": {"value": ""}
+      },
        "oxygenSaturation": {
           "scale": "2"
           },
