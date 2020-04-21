@@ -1,6 +1,7 @@
 {
     "patients": [{
             "id": 1,
+            "qr": "TEL:555-123-5555",
             "newsFreq": 10,
             "names": "Willson, Darren Alexander",
             "nhsNo": "0123 456 789",
