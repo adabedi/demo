@@ -1,4 +1,5 @@
-[{
+{
+        "patients": [{
         "id": 1,
         "newsFreq": 10,
         "names": "Mozart, Amadeusz, Alexander",
@@ -347,3 +348,4 @@
         }
     }
 ]
+}
