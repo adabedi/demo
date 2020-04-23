@@ -1,11 +1,8 @@
-{
-    "patients": [
-    {
+[{
         "id": 1,
-        "qr": "TEL:555-123-5555",
         "newsFreq": 10,
-        "names": "Willson, Darren Alexander",
-        "nhsNo": "0123 456 789",
+        "names": "Mozart, Amadeusz, Alexander",
+        "nhsNo": "0321456789",
         "dob": "1990-02-22T18:25:43.511Z",
         "admitted": "2020-02-22T18:25:43.511Z",
         "exceptedDidcharge": "2020-02-22T18:25:43.511Z",
@@ -197,7 +194,7 @@
         "id": 2,
         "newsFreq": 3,
         "names": "Surname, Forname, Middle Name",
-        "nhsNo": "0123 456 789",
+        "nhsNo": "0123564789",
         "dob": "1990-02-22T18:25:43.511Z",
         "admitted": "2020-02-22T18:25:43.511Z",
         "exceptedDidcharge": "2020-02-22T18:25:43.511Z",
@@ -214,6 +211,10 @@
         "score": {
             "ammount": 5,
             "description": "same"
+        },
+        "sepsisScreening": {
+            "date": "2020-02-22T18:25:43.511Z",
+            "status": "Red Flags detected"
         },
         "respirationRate": {
             "value": ""
@@ -242,8 +243,8 @@
     {
         "id": 3,
         "newsFreq": 2,
-        "names": "Surname3, Forname, Middle Name",
-        "nhsNo": "0123 456 789",
+        "names": "Doe, Joe, William",
+        "nhsNo": "0123456789",
         "dob": "1990-02-22T18:25:43.511Z",
         "admitted": "2020-02-22T18:25:43.511Z",
         "exceptedDidcharge": "2020-02-22T18:25:43.511Z",
@@ -260,6 +261,10 @@
         "score": {
             "ammount": 0,
             "description": "better"
+        },
+        "sepsisScreening": {
+            "date": "2020-02-22T18:25:43.511Z",
+            "status": "Amber Flags detected"
         },
         "respirationRate": {
             "value": ""
@@ -293,8 +298,8 @@
     {
         "id": 4,
         "newsFreq": 3,
-        "names": "Willson, Darren Alexander",
-        "nhsNo": "0123 456 789",
+        "names": "Forsen, Lena, Mia",
+        "nhsNo": "0123456987",
         "dob": "1990-02-22T18:25:43.511Z",
         "admitted": "2020-02-22T18:25:43.511Z",
         "exceptedDidcharge": "2020-02-22T18:25:43.511Z",
@@ -302,7 +307,7 @@
             "bed": "3",
             "ward": "33"
         },
-        "gender": "male",
+        "gender": "female",
         "consultant": "Dr Surname",
         "discharge": "2020-02-22T18:25:43.511Z",
         "height": "172",
@@ -317,16 +322,16 @@
         },
         "oxygenSaturation": {
             "value": "",
-            "scale": "2"
+            "scale": "1"
         },
         "supplementalO2": {
-            "value": "yes"
+            "value": "no"
         },
         "flowRate": {
             "value": ""
         },
         "device": {
-            "value": "Tracheostomy Mask"
+            "value": ""
         },
         "bloodPressure": {
             "value": ""
@@ -342,4 +347,3 @@
         }
     }
 ]
-}
