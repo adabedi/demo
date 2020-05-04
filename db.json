@@ -2,7 +2,7 @@
         "patients": [{
         "id": 1,
         "newsFreq": 10,
-        "names": "Mozart, Amadeusz, Alexander",
+        "names": "Mozart, Amadeusz Alexander",
         "nhsNo": "0321456789",
         "dob": "1990-02-22T18:25:43.511Z",
         "admitted": "2020-02-22T18:25:43.511Z",
@@ -194,7 +194,7 @@
     {
         "id": 2,
         "newsFreq": 3,
-        "names": "Surname, Forname, Middle Name",
+        "names": "Surname, Forname Middle Name",
         "nhsNo": "0123564789",
         "dob": "1990-02-22T18:25:43.511Z",
         "admitted": "2020-02-22T18:25:43.511Z",
@@ -244,7 +244,7 @@
     {
         "id": 3,
         "newsFreq": 2,
-        "names": "Doe, Joe, William",
+        "names": "Doe, Joe William",
         "nhsNo": "0123456789",
         "dob": "1990-02-22T18:25:43.511Z",
         "admitted": "2020-02-22T18:25:43.511Z",
@@ -299,7 +299,7 @@
     {
         "id": 4,
         "newsFreq": 3,
-        "names": "Forsen, Lena, Mia",
+        "names": "Forsen, Lena Mia",
         "nhsNo": "0123456987",
         "dob": "1990-02-22T18:25:43.511Z",
         "admitted": "2020-02-22T18:25:43.511Z",
