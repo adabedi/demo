@@ -23,41 +23,32 @@
                 "description": "worse"
             },
             "respirationRate": {
-                "value": "",
-                "units": "Breaths per minute"
+                "value": ""
             },
             "oxygenSaturation": {
                 "value": "",
-                "scale": "2",
-                "units": "%"
+                "scale": "2"
             },
             "supplementalO2": {
                 "value": "yes"
             },
             "flowRate": {
-                "value": "",
-                "units": [
-                    "Liters per minute",
-                    "%"
-                ]
+                "value": ""
             },
             "device": {
                 "value": "Tracheostomy Mask"
             },
             "bloodPressure": {
-                "value": "",
-                "units": "mmHg"
+                "value": ""
             },
             "pulseRate": {
-                "value": "",
-                "units": "Beats per minute"
+                "value": ""
             },
             "consciousness": {
                 "value": ""
             },
             "temperature": {
-                "value": "",
-                "units": "\u2103"
+                "value": ""
             },
             "situationAndBackground": [
                 {
@@ -236,31 +227,26 @@
                 "status": "Red Flags detected"
             },
             "respirationRate": {
-                "value": "",
-                "units": "Breaths per minute"
+                "value": ""
             },
             "oxygenSaturation": {
                 "value": "",
-                "scale": "1",
-                "units": "%"
+                "scale": "1"
             },
             "supplementalO2": {
                 "value": "no"
             },
             "bloodPressure": {
-                "value": "",
-                "units": "mmHg"
+                "value": ""
             },
             "pulseRate": {
-                "value": "",
-                "units": "Beats per minute"
+                "value": ""
             },
             "consciousness": {
                 "value": ""
             },
             "temperature": {
-                "value": "",
-                "units": "\u2103"
+                "value": ""
             }
         },
         {
@@ -290,41 +276,32 @@
                 "status": "Amber Flags detected"
             },
             "respirationRate": {
-                "value": "",
-                "units": "Breaths per minute"
+                "value": ""
             },
             "oxygenSaturation": {
                 "value": "",
-                "scale": "2",
-                "units": "%"
+                "scale": "2"
             },
             "supplementalO2": {
                 "value": "yes"
             },
             "flowRate": {
-                "value": "",
-                "units": [
-                    "Liters per minute",
-                    "%"
-                ]
+                "value": ""
             },
             "device": {
                 "value": "Tracheostomy Mask"
             },
             "bloodPressure": {
-                "value": "",
-                "units": "mmHg"
+                "value": ""
             },
             "pulseRate": {
-                "value": "",
-                "units": "Beats per minute"
+                "value": ""
             },
             "consciousness": {
                 "value": ""
             },
             "temperature": {
-                "value": "",
-                "units": "\u2103"
+                "value": ""
             }
         },
         {
@@ -350,31 +327,26 @@
                 "description": "worse"
             },
             "respirationRate": {
-                "value": "",
-                "units": "Breaths per minute"
+                "value": ""
             },
             "oxygenSaturation": {
                 "value": "",
-                "scale": "1",
-                "units": "%"
+                "scale": "1"
             },
             "supplementalO2": {
                 "value": "no"
             },
             "bloodPressure": {
-                "value": "",
-                "units": "mmHg"
+                "value": ""
             },
             "pulseRate": {
-                "value": "",
-                "units": "Beats per minute"
+                "value": ""
             },
             "consciousness": {
                 "value": ""
             },
             "temperature": {
-                "value": "",
-                "units": "\u2103"
+                "value": ""
             }
         }
     ]
