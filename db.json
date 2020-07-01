@@ -138,58 +138,8 @@
                         "color": "#fff"
                     }
                 ]
-            },
-            "BiochemistryElectrolytesRenal": [{
-                    "parametr": "Sodium",
-                    "value": "128",
-                    "units": "mmol/L",
-                    "date": "2020-02-22T18:25:43.511Z",
-                    "color": "#2E7D32"
-                },
-                {
-                    "parametr": "Potassium",
-                    "value": "4",
-                    "units": "mmol/L",
-                    "date": "2020-02-22T18:25:43.511Z",
-                    "color": "#fff"
-                },
-                {
-                    "parametr": "Chloride",
-                    "value": "94",
-                    "units": "mmol/L",
-                    "date": "2020-02-22T18:25:43.511Z",
-                    "color": "#2E7D32"
-                },
-                {
-                    "parametr": "CO",
-                    "value": "20",
-                    "units": "mmol/L",
-                    "date": "2020-02-22T18:25:43.511Z",
-                    "color": "#FBC384"
-                },
-                {
-                    "parametr": "Urea",
-                    "value": "5.1",
-                    "units": "mmol/L",
-                    "date": "2020-02-22T18:25:43.511Z",
-                    "color": "#fff"
-                },
-                {
-                    "parametr": "Creatanine",
-                    "value": "68",
-                    "units": "mmol/L",
-                    "date": "2020-02-22T18:25:43.511Z",
-                    "color": "#2E7D32"
-                },
-                {
-                    "parametr": "eGFR",
-                    "value": "54",
-                    "units": "mmol/L",
-                    "date": "2020-02-22T18:25:43.511Z",
-                    "color": "#2E7D32"
-                }
-            ]
-        }]
+            }
+           
     },
     {
         "id": 2,
